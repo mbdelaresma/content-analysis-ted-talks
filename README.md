@@ -4,6 +4,8 @@ Data Mining and Wrangling Course Submission
 
 See full report [HERE]()
 
+![image](https://user-images.githubusercontent.com/71246479/188296785-c9bf53c2-2d7d-4a0b-a74a-7fbc96fdb5de.png)
+
 # Executive Summary
 
 Great ideas and meaningful conversations--these are the main drivers for TED, short for Technology, Education, Design, a nonprofit that hosts impactful talks. TED has come a long way since it started hosting conferences in 1984. It was only in 2006 that the company uploaded their first talk on the online video sharing platform and social media giant YouTube. Since then the company has had dozens of their talks uploaded online. It also started riding the podcast wave just last June 2020 by transforming their videos into audio form and making them available on audio-streaming service Spotify.
