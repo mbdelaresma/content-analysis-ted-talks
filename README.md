@@ -2,7 +2,7 @@
 
 Data Mining and Wrangling Course Submission
 
-See full report [HERE]()
+See full report [HERE](https://github.com/mbdelaresma/content-analysis-ted-talks/blob/main/FinalReport.ipynb)
 
 ![image](https://user-images.githubusercontent.com/71246479/188296785-c9bf53c2-2d7d-4a0b-a74a-7fbc96fdb5de.png)
 
